@@ -8,9 +8,7 @@ def multiply_list(numbers):
 
 # 2
 def count_upper_lower(s):
-    upper_count = sum(1 for char in s if char.isupper())
-    lower_count = sum(1 for char in s if char.islower())
-    return upper_count, lower_count
+   upper_count
 
 # 3
 def is_palindrome(s):
